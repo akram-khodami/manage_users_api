@@ -24,7 +24,7 @@
 
 1. کلون کردن پروژه:
    ```bash
-   git clone https://github.com/akram-khodami/akram-khodami-manage_users_api.git
+   git clone https://github.com/akram-khodami/manage_users_api.git
    cd your-project
 
 2. run seeder
